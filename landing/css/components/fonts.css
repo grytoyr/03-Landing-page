@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'GT Pressura Mono';
+  src: url('fonts/GT-Pressura-Mono-Bold.woff2') format('woff2'),
+       url('fonts/GT-Pressura-Mono-Bold.woff.woff') format('woff');
+}
